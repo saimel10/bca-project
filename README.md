@@ -9,14 +9,14 @@
 = Division
 
 2: Grade Calculator
-=Percentage Calculation
+= Percentage Calculation
 = Pass/Fail Check
 = Grade System (A-F)
 
 ///:Technologies Used
-- C++
-- Git
-- GitHub
+= C++
+= Git
+= GitHub
 
 ///:Author
-saimel
+=saimel
